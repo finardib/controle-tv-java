@@ -1,18 +1,20 @@
-## Getting Started
+##Projeto de Controle de TV (Backend) em Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este repositório contém o código-fonte do backend de um projeto de controle de TV desenvolvido em Java. O sistema simula as funcionalidades básicas de uma TV, permitindo ao usuário controlar o volume, mudar de canal e realizar outras operações.
 
-## Folder Structure
+##Funcionalidades Principais
 
-The workspace contains two folders by default, where:
+[b]Controle de Volume:[/b] A aplicação permite ajustar o volume da TV, proporcionando uma experiência sonora personalizada.
+Troca de Canal: Os usuários podem navegar entre diferentes canais para acessar diferentes programas e conteúdos.
+Desligamento e Liga: A funcionalidade de desligamento e liga da TV está incorporada para fornecer controle total.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+##Tecnologias Utilizadas
+Linguagem de Programação: Java
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+##Como Executar o Projeto
+Requisitos Prévios:
+- JDK (Java Development Kit) instalado
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Contribuições
+Contribuições são bem-vindas! Se você encontrar bugs, melhorias ou novas funcionalidades que gostaria de implementar, sinta-se à vontade para criar pull requests.
