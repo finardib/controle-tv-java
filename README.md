@@ -1,4 +1,4 @@
-# Projeto de Controle de TV (Backend) em Java
+# Projeto de Controle de TV (Back-End) em Java
 
 Este repositório contém o código-fonte do backend de um projeto de controle de TV desenvolvido em Java. O sistema simula as funcionalidades básicas de uma TV, permitindo ao usuário controlar o volume, mudar de canal e realizar outras operações.
 
